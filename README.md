@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namdevkashish&label=Profile%20views&color=0e75b6&style=flat" alt="namdevkashish" /> </p>
 
+- 📌 My most recent work - [Portfolio](https://namdevkashish.github.io/)
+
 - 🔭 I’m currently working on [Spotify Clone](http://namdevkashish.github.io/Spotify-Clone)
 
 - 🌱 I’m currently learning **REACT, MERN**
 
-- 🔭View My 100DaysofCodeChallenge [100Days](https://github.com/namdevkashish/100DaysOfCodeChallenge)
+- 📍 View My 100DaysofCodeChallenge [100Days](https://github.com/namdevkashish/100DaysOfCodeChallenge)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

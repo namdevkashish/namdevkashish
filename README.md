@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namdevkashish&label=Profile%20views&color=0e75b6&style=flat" alt="namdevkashish" /> </p>
 
-- 🔭 I’m currently working on [Spotify Clone](http://namdevkashish.github.io/Spotify-Clone)
+- 🔭 I’m currently working on [Chess Game](https://namdevkashish.github.io/chess/)
 
 - 📌 My most recent work - [Portfolio](https://namdevkashish.github.io/)
 

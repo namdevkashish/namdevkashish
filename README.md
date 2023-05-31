@@ -51,8 +51,8 @@ A simple car game project involves building a 2D racing game where players can c
 
 A todo app built with React for managing tasks and tracking progress.
 - Language: ReactJS
-- GitHub Repository: [TODO App](https://github.com/namdevkashish/todoapp)
-- Live Demo: [Live Demo](https://namdevkashish.github.io/todoapp/)
+- GitHub Repository: [TODO App](https://github.com/namdevkashish/todolist)
+- Live Demo: [Live Demo](https://namdevkashish.github.io/todolist/)
 
 ### Project 4: Chess-Game
 

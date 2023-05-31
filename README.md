@@ -5,9 +5,9 @@ Hello, world! Welcome to my GitHub profile. I'm a passionate computer science st
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namdevkashish&label=Profile%20views&color=0e75b6&style=flat" alt="namdevkashish" /> </p>
 
-- 🔭 I’m currently working on [Chess Game](https://namdevkashish.github.io/chess/)
+- 📌 View my Portfolio - [Portfolio](https://namdevkashish.github.io/)
 
-- 📌 My most recent work - [Portfolio](https://namdevkashish.github.io/)
+- 🔭 I’m currently working on [Chess Game](https://namdevkashish.github.io/chess/)
 
 - 📍 View My 100DaysofCodeChallenge [100Days](https://github.com/namdevkashish/100DaysOfCodeChallenge)
 
@@ -34,17 +34,32 @@ Hello, world! Welcome to my GitHub profile. I'm a passionate computer science st
 
 ### Project 1: Spotify-Clone
 
-The goal of this project is to build a website that mimic the appearances and also some of the basic functionalities of a popular music-streaming platform - Spotify
+The goal of this project is to build a website that mimic the appearances and also some of the basic functionalities of a popular music-streaming platform - Spotify.
 - Language: HTML, CSS, JS
 - GitHub Repository: [Spotify-Clone](https://github.com/namdevkashish/Spotify-Clone)
 - Live Demo: [Personal Website Demo](https://namdevkashish.github.io/Spotify-Clone/)
 
 ### Project 2: Car Game
 
-A simple car game project involves building a 2D racing game where players can control a car and compete against other cars while avoiding obstacles on a track
+A simple car game project involves building a 2D racing game where players can control a car and compete against other cars while avoiding obstacles on a track.
 - Language: HTML, CSS, JS
 - GitHub Repository: [CarGame](https://github.com/namdevkashish/CarGame)
 - Live Demo: [Live Demo](https://kashish2.netlify.app/map1game.html)
+
+### Project 3: TODO App
+
+
+A todo app built with React for managing tasks and tracking progress.
+- Language: ReactJS
+- GitHub Repository: [TODO App](https://github.com/namdevkashish/todoapp)
+- Live Demo: [Live Demo](https://namdevkashish.github.io/todoapp/)
+
+### Project 4: Chess Game
+
+A simple car game project involves building a 2D racing game where players can control a car and compete against other cars while avoiding obstacles on a track
+- Language: ReactJS
+- GitHub Repository: [Chess Game](https://github.com/namdevkashish/chess)
+- Live Demo: [Live Demo](https://namdevkashish.github.io/chess/)
 
 ## Education
 

@@ -56,7 +56,7 @@ A todo app built with React for managing tasks and tracking progress.
 
 ### Project 4: Chess-Game
 
-A simple car game project involves building a 2D racing game where players can control a car and compete against other cars while avoiding obstacles on a track
+A strategic board game played between two players on a checkered board, aiming to capture the opponent's king while protecting one's own
 - Language: ReactJS
 - GitHub Repository: [Chess Game](https://github.com/namdevkashish/chess)
 - Live Demo: [Live Demo](https://namdevkashish.github.io/chess/)

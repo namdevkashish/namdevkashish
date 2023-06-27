@@ -44,7 +44,7 @@ The goal of this project is to build a website that mimic the appearances and al
 A simple car game project involves building a 2D racing game where players can control a car and compete against other cars while avoiding obstacles on a track.
 - Language: HTML, CSS, JS
 - GitHub Repository: [CarGame](https://github.com/namdevkashish/CarGame)
-- Live Demo: [Live Demo](https://kashish2.netlify.app/map1game.html)
+- Live Demo: [Live Demo](https://namdevkashish.github.io/CarGame/)
 
 ### Project 3: TODO-App
 

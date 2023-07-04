@@ -85,5 +85,5 @@ I'm always excited to connect with fellow developers and discuss new opportuniti
 Let's code together and build something awesome!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namdevkashish&show_icons=true&locale=en&layout=compact" alt="namdevkashish" height="195" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namdevkashish&show_icons=true&locale=en" alt="namdevkashish" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namdevkashish&show_icons=true&locale=en" alt="namdevkashish" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namdevkashish&" alt="namdevkashish" /></p>

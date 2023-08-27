@@ -7,7 +7,7 @@ Hello, world! Welcome to my GitHub profile. I'm a passionate computer science st
 
 - 📌 View my Portfolio - [Portfolio](https://namdevkashish.github.io/)
 
-- 🔭 I’m currently working on [Chess Game](https://namdevkashish.github.io/chess/)
+- 🔭 I’m currently working on [Netflix Clone](https://kn-netflix-clone.netlify.app/)
 
 - 📍 View My 100DaysofCodeChallenge [100Days](https://github.com/namdevkashish/100DaysOfCodeChallenge)
 
@@ -60,6 +60,13 @@ A strategic board game played between two players on a checkered board, aiming t
 - Language: ReactJS
 - GitHub Repository: [Chess Game](https://github.com/namdevkashish/chess)
 - Live Demo: [Live Demo](https://namdevkashish.github.io/chess/)
+
+### Project 5: Netflix-Clone
+
+A responsive Netflix clone built using React, showcasing movie and TV show previews.
+- Language: ReactJS
+- GitHub Repository: [Netflix clone](https://github.com/namdevkashish/netflix-clone)
+- Live Demo: [Live Demo](https://kn-netflix-clone.netlify.app/)
 
 ## Education
 

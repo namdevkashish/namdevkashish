@@ -30,44 +30,6 @@ Hello, world! Welcome to my GitHub profile. I'm a passionate computer science st
 - **Data Structures & Algorithms**: Arrays, Linked Lists, Trees, Sorting Algorithms
 - **Problem Solving**: Algorithmic thinking, Complexity analysis
 
-## Projects
-
-### Project 1: Spotify-Clone
-
-The goal of this project is to build a website that mimic the appearances and also some of the basic functionalities of a popular music-streaming platform - Spotify.
-- Language: HTML, CSS, JS
-- GitHub Repository: [Spotify-Clone](https://github.com/namdevkashish/Spotify-Clone)
-- Live Demo: [Live Demo](https://namdevkashish.github.io/Spotify-Clone/)
-
-### Project 2: Car-Game
-
-A simple car game project involves building a 2D racing game where players can control a car and compete against other cars while avoiding obstacles on a track.
-- Language: HTML, CSS, JS
-- GitHub Repository: [CarGame](https://github.com/namdevkashish/CarGame)
-- Live Demo: [Live Demo](https://namdevkashish.github.io/CarGame/)
-
-### Project 3: TODO-App
-
-
-A todo app built with React for managing tasks and tracking progress.
-- Language: ReactJS
-- GitHub Repository: [TODO App](https://github.com/namdevkashish/todolist)
-- Live Demo: [Live Demo](https://namdevkashish.github.io/todolist/)
-
-### Project 4: Chess-Game
-
-A strategic board game played between two players on a checkered board, aiming to capture the opponent's king while protecting one's own
-- Language: ReactJS
-- GitHub Repository: [Chess Game](https://github.com/namdevkashish/chess)
-- Live Demo: [Live Demo](https://namdevkashish.github.io/chess/)
-
-### Project 5: Netflix-Clone
-
-A responsive Netflix clone built using React, showcasing movie and TV show previews.
-- Language: ReactJS
-- GitHub Repository: [Netflix clone](https://github.com/namdevkashish/netflix-clone)
-- Live Demo: [Live Demo](https://kn-netflix-clone.netlify.app/)
-
 ## Education
 
 - Bachelor in Computer Applications, DAVV University, 2020 - 2022
@@ -78,8 +40,6 @@ A responsive Netflix clone built using React, showcasing movie and TV show previ
 - Data Structures and Algorithms
 - Object-Oriented Programming
 - Databases
-- Operating Systems
-- Software Engineering
 
 ## Contact Me
 

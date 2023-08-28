@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kashish Namdev</h1>
 <h3 align="center">A Computer Science Student from India</h3>
 
-Hello, world! Welcome to my GitHub profile. I'm a passionate computer science student with a strong interest in algorithms, data structures, and software development. I enjoy learning new technologies and contributing to open source projects.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namdevkashish&label=Profile%20views&color=0e75b6&style=flat" alt="namdevkashish" /> </p>
 
 - 📌 View my Portfolio - [Portfolio](https://namdevkashish.github.io/)

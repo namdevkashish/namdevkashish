@@ -5,9 +5,9 @@
 
 - 📌 View my Portfolio - [Portfolio](https://namdevkashish.github.io/)
 
-- 🔭 I’m currently working on [Netflix Clone](https://kn-netflix-clone.netlify.app/)
+- 🔭 I’m currently working on [FlavorFly - Food Ordering System](https://github.com/namdevkashish/FlavorFly-Food-Ordering-System)
 
-- 📍 View My 100DaysofCodeChallenge [100Days](https://github.com/namdevkashish/100DaysOfCodeChallenge)
+- 📍 View My 100 Days of Code Challenge [100DaysOfCodeChallenge](https://github.com/namdevkashish/100DaysOfCodeChallenge)
 
 - 🌱 I’m currently learning **REACT, MERN**
 
@@ -23,8 +23,8 @@
 ## Skills
 
 - **Languages**:  C, C++, Python, Java
-- **Web Development**: HTML, CSS, JavaScript, React
-- **Database**: MySQL
+- **Web Development**: HTML, CSS, JavaScript, ReactJs, Stripe, NodeJs, Tailwind CSS
+- **Database**: MySQL, Firebase
 - **Data Structures & Algorithms**: Arrays, Linked Lists, Trees, Sorting Algorithms
 - **Problem Solving**: Algorithmic thinking, Complexity analysis
 
